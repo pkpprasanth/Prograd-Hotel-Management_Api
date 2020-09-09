@@ -1,1 +1,1 @@
-https://www.themealdb.com) API
+https://www.themealdb.com
